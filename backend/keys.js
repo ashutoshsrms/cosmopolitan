@@ -1,4 +1,4 @@
 module.exports = {
-    MONGOURI : "mongodb+srv://ashutosh:1234567890@cluster0.0bxb4.mongodb.net/Insta?retryWrites=true&w=majority",
+    MONGOURI : "mongodb+srv://ashutosh:Ashu1234@cluster0.0bxb4.mongodb.net/user-management?retryWrites=true&w=majority",
     JWT_SECRET:'captainroger'
 }
